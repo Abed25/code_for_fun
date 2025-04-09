@@ -1,15 +1,16 @@
-# 🖥️ Hacking Animation (Python + Pygame)
+# 🎮 Code for Fun
 
-This project creates a cool "hacking-style" animation using Python and Pygame. It displays binary digits flowing **horizontally**, paired with a looping tech sound for an immersive effect.
+A playful collection of small Python scripts and creative experiments — just for the fun of it! 🧪
 
-## 🚀 Features
+## 🧰 What's Inside
 
-- Smooth binary animation flowing across the screen horizontally
-- Retro terminal-style display
-- Looping "tech_beep.wav" sound for ambient vibes
+- 🔢 Hacking-style binary animations
+- 🔊 Pygame sound experiments
+- 🧠 Random logic & visual effects
 
-## 🛠 Requirements
+## 🚀 Getting Started
 
-- Python 3.7+
-- Pygame
-
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Abed25/code_for_fun.git
+   cd code_for_fun
